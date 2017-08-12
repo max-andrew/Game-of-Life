@@ -1,8 +1,9 @@
 # Conway's Game of Life
-#### Python demonstration
+### Python demonstration
 
-##### Interactive Conway's Game of Life board builder. 
-##### https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+Interactive Conway's Game of Life board builder. 
+
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 ### Initialization
 
