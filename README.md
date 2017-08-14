@@ -1,5 +1,4 @@
 # Conway's Game of Life
-### Python demonstration
 
 Interactive Conway's Game of Life board builder. 
 
